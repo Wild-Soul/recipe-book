@@ -13,5 +13,6 @@ import '../lib/routes.js';
 import './recipes/Recipes.html';
 import './recipes/NewRecipe.html';
 import './recipes/recipes.js';
+import './recipes/Recipe.html';
 
 import '../collections/recipes.js';
