@@ -14,5 +14,7 @@ import './recipes/Recipes.html';
 import './recipes/NewRecipe.html';
 import './recipes/recipes.js';
 import './recipes/Recipe.html';
+import './recipes/RecipeSingle.html';
+import './recipes/RecipeSingle.js';
 
 import '../collections/recipes.js';

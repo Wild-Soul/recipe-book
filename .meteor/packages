@@ -33,7 +33,6 @@ accounts-password
 matb33:bootstrap-glyphicons
 msavin:jetsetter
 zimme:active-route
-gwendall:auth-client-callbacks
 jquery@1.11.11
 check
 datariot:ganalytics
