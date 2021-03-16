@@ -21,3 +21,6 @@ import './recipes/recipe.js';
 
 import '../collections/recipes.js';
 import './Menu.js';
+
+import './ShoppingList.html';
+import './ShoppingList.js';
